@@ -7,7 +7,7 @@ Running the run_analysis.R script will perform the following:
 - merge datasets
 - extract only measurements on the mean and stdev
 - clean columns to increase readabilty 
-- convery activities and subjects to factors 
+- convert activities and subjects to factors 
 - generate tidy dataset 
 - export txt file
 
