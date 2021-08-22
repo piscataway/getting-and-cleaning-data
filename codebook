@@ -1,2 +1,96 @@
 Codebook
+  This codebook refers to the tidydata.txt ouput file
+  
+Subject: the ID of the subject in the study
+Activity: the type of activity being performed (values listed below) 
+Measurements: mean and stdev values for the type of activity being performed (measurements listed below) 
+
+Activities: 
+  1 = WALKING
+  2 = WALKING_UPSTAIRS
+  3 = WALKING_DOWNSTAIRS
+  4 = SITTING
+  5 = STANDING
+  6 = LAYING
+
+Measurements: 
+  TimeBodyAccMeanX
+  TimeBodyAccMeanY
+  TimeBodyAccMeanZ
+  TimeBodyAccStdX
+  TimeBodyAccStdY
+  TimeBodyAccStdZ
+  TimeGravityAccMeanX
+  TimeGravityAccMeanY
+  TimeGravityAccMeanZ
+  TimeGravityAccStdX
+  TimeGravityAccStdY
+  TimeGravityAccStdZ
+  TimeBodyAccJerkMeanX
+  TimeBodyAccJerkMeanY
+  TimeBodyAccJerkMeanZ
+  TimeBodyAccJerkStdX
+  TimeBodyAccJerkStdY
+  TimeBodyAccJerkStdZ
+  TimeBodyGyroMeanX
+  TimeBodyGyroMeanY
+  TimeBodyGyroMeanZ
+  TimeBodyGyroStdX
+  TimeBodyGyroStdY
+  TimeBodyGyroStdZ
+  TimeBodyGyroJerkMeanX
+  TimeBodyGyroJerkMeanY
+  TimeBodyGyroJerkMeanZ
+  TimeBodyGyroJerkStdX
+  TimeBodyGyroJerkStdY
+  TimeBodyGyroJerkStdZ
+  TimeBodyAccMagMean
+  TimeBodyAccMagStd
+  TimeGravityAccMagMean
+  TimeGravityAccMagStd
+  TimeBodyAccJerkMagMean
+  TimeBodyAccJerkMagStd
+  TimeBodyGyroMagMean
+  TimeBodyGyroMagStd
+  TimeBodyGyroJerkMagMean
+  TimeBodyGyroJerkMagStd
+  FrequencyBodyAccMeanX
+  FrequencyBodyAccMeanY
+  FrequencyBodyAccMeanZ
+  FrequencyBodyAccStdX
+  FrequencyBodyAccStdY
+  FrequencyBodyAccStdZ
+  FrequencyBodyAccMeanFreqX
+  FrequencyBodyAccMeanFreqY
+  FrequencyBodyAccMeanFreqZ
+  FrequencyBodyAccJerkMeanX
+  FrequencyBodyAccJerkMeanY
+  FrequencyBodyAccJerkMeanZ
+  FrequencyBodyAccJerkStdX
+  FrequencyBodyAccJerkStdY
+  FrequencyBodyAccJerkStdZ
+  FrequencyBodyAccJerkMeanFreqX
+  FrequencyBodyAccJerkMeanFreqY
+  FrequencyBodyAccJerkMeanFreqZ
+  FrequencyBodyGyroMeanX
+  FrequencyBodyGyroMeanY
+  FrequencyBodyGyroMeanZ
+  FrequencyBodyGyroStdX
+  FrequencyBodyGyroStdY
+  FrequencyBodyGyroStdZ
+  FrequencyBodyGyroMeanFreqX
+  FrequencyBodyGyroMeanFreqY
+  FrequencyBodyGyroMeanFreqZ
+  FrequencyBodyAccMagMean
+  FrequencyBodyAccMagStd
+  FrequencyBodyAccMagMeanFreq
+  FrequencyBodyBodyAccJerkMagMean
+  FrequencyBodyBodyAccJerkMagStd
+  FrequencyBodyBodyAccJerkMagMeanFreq
+  FrequencyBodyBodyGyroMagMean
+  FrequencyBodyBodyGyroMagStd
+  FrequencyBodyBodyGyroMagMeanFreq
+  FrequencyBodyBodyGyroJerkMagMean
+  FrequencyBodyBodyGyroJerkMagStd
+  FrequencyBodyBodyGyroJerkMagMeanFre
 
